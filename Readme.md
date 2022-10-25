@@ -1,0 +1,6 @@
+Task Tracker
+
+Description: This is a task tracker that takes client data and stores it in a local storage. You insert a task and pick a category and it will color code that task based on the category that was selected. There is also an edit button that allows the client to edit their task if they wish and after it will save it into the local storage. There is also a delete button that allows you to delete the task. Another option that the client has is to select the finsihed task from the task list and it will cross it out until deleted. I also added a server.
+
+Challenge: The biggest downfall of my project was that I did not meet the requirements that were needed for this specific project. We were supoose to use node.js as well as incorporate a local file such as JSON or TXT file. I attempted to do it but I got lost and couldn't comprehend what was going on. Moving forward after leanring more node and solo research I am gouing to retry this project to see if I can succefully do it whilst meeting the requirements.
+Error: I noticed that when I did the server.js file for my local server at first I didnt have routes for my other files so everytime I would go live on the server I would get "CANNOT GET /" so I had to make routes for all three html,css,and js files.
